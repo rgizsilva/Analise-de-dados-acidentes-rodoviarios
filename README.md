@@ -1,7 +1,7 @@
 
 <img src="https://www2.ifal.edu.br/campus/maceio/noticias/diretoria-de-ensino-promove-reuniao-com-pais-e-responsaveis/atencao.png/@@images/image.png" height="200" width="450"/>
 
-### O GITHUB NÃO RENDERIZA ALGUNS GRÁFICOS, ENTÃO PARA VISUALIZAÇÃO COMPLETA DO PROJETO ACESSAR O MESMO QUE ESTÁ HOSPEDADO NO SITE NBVIEWER CLICANDO NO LINK ABAIXO:
+### O GITHUB NÃO RENDERIZA ALGUNS GRÁFICOS, ENTÃO PARA VISUALIZAÇÃO COMPLETA DO PROJETO ACESSAR O MESMO QUE ESTÁ HOSPEDADO NO SITE NBVIEWER USANDO O NAVEGADOR MOZILLA FIREFOX CLICANDO NO LINK ABAIXO:
 
 https://nbviewer.org/github/rgizsilva/Analise-de-dados-acidentes-rodoviarios/blob/main/Analise_Acidentes_Rodoviarios_2022.ipynb?flush_cache=true
 -----
